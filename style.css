@@ -1,0 +1,15 @@
+body{
+    font-family: 'rubik', 'vinyl';
+    background-color: lightblue;
+}
+.dark-mode{
+    background-color: black;
+    color: white;
+}
+#body{
+    transition: 0.3 ease-in;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
